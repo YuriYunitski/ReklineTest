@@ -1,0 +1,2 @@
+rootProject.name = "ReklineTest"
+include ':app'

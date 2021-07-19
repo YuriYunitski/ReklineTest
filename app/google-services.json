@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582771895996",
+    "project_id": "reklinetest",
+    "storage_bucket": "reklinetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582771895996:android:937f5aab638f58308eaab9",
+        "android_client_info": {
+          "package_name": "com.yunitski.reklinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582771895996-7um85pinofqk0qchhp3v1jo1vas5ov8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yunitski.reklinetest",
+            "certificate_hash": "ca168745873e506c77f66506b59bb34071863c19"
+          }
+        },
+        {
+          "client_id": "582771895996-5jq9684kpatgqulovl554a2b0qb40l3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLWLfuXAA0HG_VIzmo4xOaIpEvQFaM4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582771895996-5jq9684kpatgqulovl554a2b0qb40l3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
