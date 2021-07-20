@@ -21,7 +21,7 @@ public class Ship extends SpaceBody{
         if(GameActivity.isLeftPressed && x >= 0){
             x -= speed;
         }
-        if(GameActivity.isRightPressed && x <= GameView.maxX - 5){
+        if(GameActivity.isRightPressed && x <= GameView.maxX - 3){
             x += speed;
         }
     }
